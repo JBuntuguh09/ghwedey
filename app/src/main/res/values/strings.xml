@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GH We Dey</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="example">Example</string>
+    <string name="meaning">Meaning</string>
+    <string name="word_or_phrase">Word or Phrase</string>
+    <string name="add_words_which_have_the_same_meaning">Add words which have the same meaning</string>
+    <string name="submit">Submit</string>
+    <string name="enter_alternative">Enter Alternative</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone_number">Phone Number</string>
+</resources>

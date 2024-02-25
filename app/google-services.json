@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980361597903",
+    "firebase_url": "https://lawdic.firebaseio.com",
+    "project_id": "lawdic",
+    "storage_bucket": "lawdic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980361597903:android:65ac7654e6c3207b07b8ba",
+        "android_client_info": {
+          "package_name": "com.lonewolf.ghwedey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980361597903-is59apgolv8j3fd6969gvnv376bbgetu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyXX8VYyspbps39JNYFCqRdsU_ZW5UTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980361597903-is59apgolv8j3fd6969gvnv376bbgetu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
